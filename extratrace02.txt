@@ -1,0 +1,4 @@
+#  extratrace02.txt - Tests a case of piping
+
+./printone | ./test_redirect
+1

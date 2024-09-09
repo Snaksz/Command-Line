@@ -1,0 +1,7 @@
+#  extratrace04.txt - Tests a case of invalid pipe
+
+#
+# tracepipes.txt - Run a invalid pipe
+#
+|
+: Command not found

@@ -1,0 +1,3 @@
+#  extratrace01.txt - Tests a case of multiple output redirection
+
+/bin/echo "HI! aHg You??" > hi.txt

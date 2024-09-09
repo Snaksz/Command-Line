@@ -1,0 +1,3 @@
+#  extratrace05.txt - Tests writig from executable to file
+
+./printone > t5.txt

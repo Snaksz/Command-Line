@@ -1,0 +1,6 @@
+#  extratrace03.txt - Tests a case of piping with grep
+
+|./printone | ./test_redirect |
+
+|./printone: Command not found
+
